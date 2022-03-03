@@ -6,7 +6,6 @@
 - 👨‍💻 Estudo **programação web** 
 - 🚀 Busco *aprender* mais e mais sobre o universo da **tecnologia** 
 
-<br><br>
 
 ## 🛠 Tech Stack
 
@@ -16,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br><br>
+
 
 ## Meu github
 
