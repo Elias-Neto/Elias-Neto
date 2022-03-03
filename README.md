@@ -19,8 +19,8 @@
 
 ## Meu github
 
-<div align="center" display="inline-block">
-  <img height="180em" width="500px"src="https://github-readme-stats.vercel.app/api?username=Elias-Neto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Neto&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias-Neto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Neto&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
