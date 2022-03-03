@@ -4,7 +4,7 @@
 
 - 🏛 Curso análise e desenvolvimento de sistemas na [Faculdade Nova Roma](https://portal.novaroma.edu.br/)
 - 👨‍💻 Estudo **programação web** 
-- 🚀 Busco *aprender* mais e mais sobre o universo da **tecnologia** 
+- 🚀 Busco *aprender* mais e mais sobre o universo da **tecnologia** e da **engenharia de software**
 
 
 ## 🛠 Tech Stack
