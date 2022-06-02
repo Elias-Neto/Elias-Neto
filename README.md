@@ -1,5 +1,5 @@
 
-<h1> Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Elias Neto</h1>
+<h1> Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px">, eu sou Elias Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elias-Neto&color=blue" alt="Profile views" /> </p>
 
 - 🏛 Curso análise e desenvolvimento de sistemas na [Faculdade Nova Roma](https://portal.novaroma.edu.br/)
