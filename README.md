@@ -2,7 +2,7 @@
 <h1> Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px">, eu sou Elias Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elias-Neto&color=blue" alt="Profile views" /> </p>
 
-- 🏛 Curso análise e desenvolvimento de sistemas na [Faculdade Nova Roma](https://portal.novaroma.edu.br/)
+- 🏛 Curso análise e desenvolvimento de sistemas
 - 👨‍💻 Estudo **programação web** 
 - 🚀 Busco *aprender* mais e mais sobre o universo da **tecnologia** e da **engenharia de software**
 
