@@ -3,9 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Elias-Neto&color=blue" alt="Profile views"/>
 
-- 🏛 Curso análise e desenvolvimento de sistemas
+- 🏛 Curso *Análise e Desenvolvimento de Sistemas*
 - 👨‍💻 Estudo **Desenvolvimento Web FullStack**
-- 🚀 Busco *aprender* mais e mais sobre o universo da **Tecnologia** e da **Engenharia de Software**
+- 🚀 O próximo nível nunca será o último **#NeverStopLearning**
 
 <br>
 
