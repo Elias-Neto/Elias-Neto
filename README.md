@@ -17,11 +17,3 @@
 ![ReactJS](https://img.shields.io/badge/React-05122A?style=flat&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest)
-
-<br>
-
-<div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Elias-Neto&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Neto&layout=compact&langs_count=7&theme=nord"/>
-</div>
-  
