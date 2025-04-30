@@ -1,9 +1,8 @@
-
 # Opa 🤙, eu sou Elias Neto
 
 <img src="https://komarev.com/ghpvc/?username=Elias-Neto&color=blue" alt="Profile views"/>
 
-- 🏛 Curso *Análise e Desenvolvimento de Sistemas*
+- 🎓 Formado em *Análise e Desenvolvimento de Sistemas*
 - 👨‍💻 Sou **Desenvolvedor Web FullStack**
 - 🚀 O próximo nível nunca será o último **#NeverStopLearning**
 
@@ -18,3 +17,5 @@
 ![ReactJS](https://img.shields.io/badge/React-05122A?style=flat&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
